@@ -1,0 +1,19 @@
+{
+  "name": "awsdyndb",
+  "version": "1.0.0",
+  "description": "MDB NHT DynamoDB hands-on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gcho",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.202.0",
+    "@aws-sdk/lib-dynamodb": "^3.202.0",
+    "dotenv": "^16.0.3",
+    "ramda": "^0.28.0",
+    "waait": "^1.0.5"
+  },
+  "type": "module"
+}
