@@ -12,6 +12,7 @@
     "@aws-sdk/client-dynamodb": "^3.202.0",
     "@aws-sdk/lib-dynamodb": "^3.202.0",
     "dotenv": "^16.0.3",
+    "heap-js": "^2.2.0",
     "ramda": "^0.28.0",
     "waait": "^1.0.5"
   },
